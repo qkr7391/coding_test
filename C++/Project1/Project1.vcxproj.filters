@@ -15,7 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="q4-7q1.cpp">
+    <Text Include="basic_setting.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="q6-6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
