@@ -22,7 +22,7 @@
     <Text Include="basic_setting.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="q7-9.cpp" />
+    <ClCompile Include="q7-11.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
