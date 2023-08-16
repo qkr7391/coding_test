@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 	//a1 - repeat cout
-	/*size_t t, r;
+	size_t t, r;
 	string s;
 	cin >> t;
 	for (size_t i = 0; i < t; i++)
@@ -18,10 +18,11 @@ int main() {
 				cout << s[j];
 			}
 		}
-	}*/
+		cout << endl;
+	}
 
 	//a2 - new string
-	size_t t, r, cnt = 0, temp = 0;
+	/*size_t t, r, cnt = 0, temp = 0;
 	string s, p="";
 	cin >> t;
 	for (size_t i = 0; i < t; i++)
@@ -37,6 +38,6 @@ int main() {
 			}
 		}
 	}
-	cout << p;
+	cout << p;*/
 	return 0;
 }
